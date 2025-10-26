@@ -1,0 +1,7 @@
+{
+  "name": "Google Workspace Tutor Chatbot",
+  "description": "A friendly AI tutor, expert in Google Workspace for Education and Chromebooks, designed to help teachers with their questions. This chatbot provides clear, kind, and didactic support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
