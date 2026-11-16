@@ -4,6 +4,8 @@
 **Data da auditoria:** 16/11/2026
 **Situação dos arquivos originais:** **NÃO ALTERADOS.** Este relatório contém apenas diagnóstico e propostas, que aguardam autorização expressa (Fase 5).
 
+> **ATUALIZAÇÃO:** os itens A-11, B-23 e a análise da referência do TRT-16 foram revistos no `02_Adendo_Documentos_Complementares.md`, que prevalece sobre este relatório nesses pontos.
+
 > Natureza do documento: análise técnico-administrativa simulada por especialidades. Não constitui parecer jurídico oficial, nem manifestação de procurador investido, controle interno ou Tribunal de Contas.
 
 ---
